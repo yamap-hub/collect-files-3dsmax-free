@@ -17,7 +17,7 @@ Gather your scene and its textures/external assets into a clean, portable projec
 * **Missing Link Detection:** Safely skips broken/missing file paths and lists them in the completion summary.
 * **Bilingual UI & Easy Setup:** Switch between **English** and **Japanese** anytime, and install via drag-and-drop.
 
-> **Scope Note:** The Free edition is designed as a lightweight baseline for standard single-scene collection. A **Pro Edition (CF3P)** with recursive nested XRef collection, UDIM / `.ifl` sequence expansion, collection reports, and 1-click `.zip` packaging is coming soon.
+> **Scope Note:** The Free edition is designed as a lightweight baseline for standard single-scene collection. If you work with nested `.max` XRefs (XRef Scenes / XRef Objects), UDIMs, `.ifl` image sequences, or need collection reports and 1-click `.zip` packaging, check out **Collect Files for 3ds Max Pro (CF3P)** below.
 
 ---
 
@@ -37,7 +37,9 @@ Gather your scene and its textures/external assets into a clean, portable projec
 | **Collection audit report (`collection_report.txt`)** | — | ✅ |
 | **1-click `.zip` delivery archive packaging** | — | ✅ |
 
-*Collect Files for 3ds Max Pro (CF3P) is currently in final release preparation and will be available soon on Gumroad and BOOTH.*
+### Get Collect Files for 3ds Max Pro (CF3P)
+* **Gumroad (Global / English):** https://mashitaya.gumroad.com/l/dhjmwl/6wl6aky
+* **BOOTH (Japan / 日本語):** https://yworks.booth.pm/items/9180013
 
 ---
 
@@ -99,7 +101,7 @@ Autodesk 3ds Max 向けの After Effects 風 **「ファイル収集（Collect F
 * **日英バイリンガルUI ＆ 簡単導入:** `install_CF3F.ms` をビューポートへドラッグ＆ドロップするだけでインストール完了します。
 
 > **無料版の対応範囲について:**  
-> Free版は日常的な単一シーンを手軽にまとめる用途に特化した軽量版です。子・孫階層までのネストされた XRef（XRef シーン・XRef オブジェクト）の再帰収集、UDIM・`.ifl` 連番の自動展開と内部リリンク、収集レポート出力、ワンクリック `.zip` 圧縮を備えた上位版 **Collect Files for 3ds Max Pro (CF3P)** も順次公開予定です。
+> Free版は日常的な単一シーンを手軽にまとめる用途に特化した軽量版です。子・孫階層までのネストされた XRef（XRef シーン・XRef オブジェクト）の再帰収集、UDIM・`.ifl` 連番の自動展開と内部リリンク、収集レポート出力、ワンクリック `.zip` 圧縮が必要な場合は、上位版の **Collect Files for 3ds Max Pro (CF3P)** をご利用ください。
 
 ---
 
@@ -119,7 +121,9 @@ Autodesk 3ds Max 向けの After Effects 風 **「ファイル収集（Collect F
 | **収集レポート出力（`collection_report.txt`）** | — | ✅ |
 | **納品用 `.zip` アーカイブ自動作成** | — | ✅ |
 
-*※Pro版（CF3P）は現在公開準備中です。準備が整い次第、Gumroad および BOOTH にて公開予定です。*
+### Pro版（CF3P）の入手先
+* **BOOTH（日本語 / 国内向け）:** https://yworks.booth.pm/items/9180013
+* **Gumroad（英語 / 海外向け）:** https://mashitaya.gumroad.com/l/dhjmwl/6wl6aky
 
 ---
 
