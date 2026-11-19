@@ -38,7 +38,7 @@ Gather your scene and its textures/external assets into a clean, portable projec
 | **1-click `.zip` delivery archive packaging** | — | ✅ |
 
 ### Get Collect Files for 3ds Max Pro (CF3P)
-* **Gumroad (Global / English):** https://mashitaya.gumroad.com/l/dhjmwl/6wl6aky
+* **Gumroad (Global / English):** [https://mashitaya.gumroad.com/l/dhjmwl/6wl6aky](https://mashitaya.gumroad.com/l/dhjmwl)
 * **BOOTH (Japan / 日本語):** https://yworks.booth.pm/items/9180013
 
 ---
